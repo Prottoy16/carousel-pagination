@@ -1,0 +1,21 @@
+.hr-style {
+    border:5px dotted white;
+    border-bottom:none;
+    width:120px;
+    margin:0 auto;
+   
+}
+.carousel-item {
+    padding: 50px 100px;
+}
+.header-style {
+    background-color:rgba(0,0,0,0.3)
+}
+.main-header {
+    background-color: #0d0442;
+    
+}
+.main-div {
+    background-color: #0d0442;
+    
+}
